@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MPPSample</string>
+    <string name="search">Search</string>
+    <string name="accessToken">ACSESS TOKEN</string>
+    <string name="save">Save</string>
+    <string name="searchDesc">Search GitHub Repository</string>
+</resources>
