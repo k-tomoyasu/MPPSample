@@ -12,3 +12,10 @@ Search github repository using github api and show top of stargazer.
 ### Expect, Actual
 - Handling Device Strage(SharedPreferences, UserDefaults)
 - CoroutineDispatcher
+
+## Screeenshot
+### Android
+![Android](screenshot/android.png)
+
+### iOS
+![iOS](screenshot/ios.png)
